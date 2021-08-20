@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+.destacado {
+    text-decoration: underline;
+}
+#especial {
+    color: darkturquoise;
+}
+p {
+    font-size: 20px;
+}
